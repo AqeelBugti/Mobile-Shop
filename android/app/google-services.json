@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "528879020322",
+    "firebase_url": "https://helloecommerce-8d778.firebaseio.com",
+    "project_id": "helloecommerce-8d778",
+    "storage_bucket": "helloecommerce-8d778.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528879020322:android:38801d0c3621de0e629d7b",
+        "android_client_info": {
+          "package_name": "com.example.helloecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528879020322-ndu9888ulnkbacosfmq7trvvamleilqk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl9jylaP6dEAtXx7wup0RxHTzN1ttSo-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528879020322-ndu9888ulnkbacosfmq7trvvamleilqk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
